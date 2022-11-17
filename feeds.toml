@@ -1,9 +1,14 @@
+[Pennylane]
+title = "Pennylane jobs"
+url = "https://jobs.lever.co/pennylane/"
+entrySelector = ".posting"
+titleSelector = ".posting h5"
+linkSelector = ".posting a"
+
 [funfacts]
 title = "Wikipedia — did you know?"
 url = "https://en.wikipedia.org/wiki/Main_Page"
 entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
 
 [wikivoyage]
 title = "Wikivoyage recommendations"
